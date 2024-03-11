@@ -15,16 +15,16 @@ VALUES
 
 INSERT INTO Ogrenci (OgrenciID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
 VALUES
-(21115011, 'Berke', 'Toksöz', '2000-06-17', 'E', 4),
-(21115012, 'Sila', 'Yildirim', '2001-03-22', 'K', 4),
-(21115013, 'Caner', 'Aydin', '2000-09-13', 'E', 5),
-(21115014, 'Aysenur', 'Çinar', '2001-02-28', 'K', 5),
-(21115015, 'Ali', 'Sahin', '2000-10-11', 'E', 6),
-(21115016, 'Zeynep', 'Aslan', '2001-05-01', 'K', 6),
-(21115017, 'Veli', 'Erdogan', '2000-08-24', 'E', 4),
+(21115011, 'Berke', 'Toksöz', '2000-02-12', 'E', 4),
+(21115012, 'Sila', 'Yildirim', '2001-08-23', 'K', 4),
+(21115013, 'Caner', 'Aydin', '2000-08-12', 'E', 5),
+(21115014, 'Aysenur', 'Çinar', '2001-03-28', 'K', 5),
+(21115015, 'Ali', 'Sahin', '2000-11-11', 'E', 6),
+(21115016, 'Zeynep', 'Aslan', '2001-03-01', 'K', 6),
+(21115017, 'Veli', 'Erdogan', '2000-02-21', 'E', 4),
 (21115018, 'Sevim', 'Zülal', '2001-01-10', 'K', 4),
-(21115019, 'Kemal', 'Kiliçlaroglu', '2000-07-05', 'E', 5),
-(21115020, 'Meral', 'Aksener', '2001-04-19', 'K', 6);
+(21115019, 'Kemal', 'Kiliçlaroglu', '2000-02-05', 'E', 5),
+(21115020, 'Meral', 'Aksener', '2001-01-10', 'K', 6);
 
 
 INSERT INTO Ogrenci (OgrenciID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
