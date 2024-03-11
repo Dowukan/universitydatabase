@@ -1,6 +1,6 @@
 
 INSERT INTO Fakulte (FakulteID, FakulteAdi, DekanAdi, Telefon, Adres)
 VALUES
-(1, 'Mühendislik Fakültesi', 'Prof. Dr. Ali Yılmaz', '123-4567890', 'Mühendislik Binası, Üniversite Kampüsü'),
-(2, 'Sağlık Bilimleri Fakültesi', 'Prof. Dr. Ayşe Kaya', '123-4567891', 'Sağlık Binası, Üniversite Kampüsü'),
-(3, 'Hukuk Fakültesi', 'Prof. Dr. Mehmet Demir', '123-4567892', 'Hukuk Binası, Üniversite Kampüsü');
+(1, 'MÃ¼hendislik FakÃ¼ltesi', 'Prof. Dr. Ali KoÃ§', '123-4567890', 'MÃ¼hendislik BinasÄ±, Ãœniversite KampÃ¼sÃ¼'),
+(2, 'SaÄŸlÄ±k Bilimleri FakÃ¼ltesi', 'Prof. Dr. Dursun Ã–zbek', '123-4567891', 'SaÄŸlÄ±k BinasÄ±, Ãœniversite KampÃ¼sÃ¼'),
+(3, 'Hukuk FakÃ¼ltesi', 'Prof. Dr. Ahmet AÄŸaoÄŸlu', '123-4567892', 'Hukuk BinasÄ±, Ãœniversite KampÃ¼sÃ¼');
