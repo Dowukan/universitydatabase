@@ -1,4 +1,4 @@
---Hangi Öğretmenin hangi fakülte ve hangi bölümde olduğunu gösteren sorgu
+--Hangi öğretmenin hangi fakülte ve hangi bölümde olduğunu gösteren sorgu
 
 SELECT 
     Ogretmen.Ad AS OgretmenAdi,
