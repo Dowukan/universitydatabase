@@ -21,7 +21,7 @@ VALUES
 
 INSERT INTO Ogretmen (OgretmenID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
 VALUES
-(13, 'Ayþenur', 'Elmas', '1973-06-17', 'K', 7),
+(13, 'Aysenur', 'Elmas', '1973-06-17', 'K', 7),
 (14, 'Kutlu Kaan', 'Demir', '1984-09-22', 'E', 7),
 (15, 'Leyla', 'Mecnun', '1977-10-13', 'K', 8),
 (16, 'Arslan', 'Kutay', '1982-01-28', 'E', 8),
