@@ -1,5 +1,7 @@
 Doğukan Çalışkan 2111502019
+
 Berke Toksöz 2111502211
+
 Ceyhun Ege Semercioğlu 2111502061
 
 Örnek sorgular
