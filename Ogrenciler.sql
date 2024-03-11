@@ -29,7 +29,7 @@ VALUES
 
 INSERT INTO Ogrenci (OgrenciID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
 VALUES
-(21115021, 'Damla', 'Eroglu', '2000-06-17', 'K', 7),
+(21115021, 'Damla', 'Eroglu', '2000-04-01', 'K', 7),
 (21115022, 'Sena', 'Öztürk', '2001-03-22', 'K', 7),
 (21115023, 'Mehmet', 'Çakar', '2000-09-13', 'E', 8),
 (21115024, 'Ahmet', 'Agaoglu', '2001-02-28', 'E', 8),
