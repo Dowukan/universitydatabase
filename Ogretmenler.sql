@@ -11,12 +11,12 @@ VALUES
 
 INSERT INTO Ogretmen (OgretmenID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
 VALUES
-(7, 'Can', 'Yýldýz', '1972-04-18', 'E', 4),
+(7, 'Can', 'Yildiz', '1972-04-18', 'E', 4),
 (8, 'Deniz', 'Koç', '1985-07-20', 'K', 4),
 (9, 'Emre', 'Demir', '1979-12-10', 'E', 5),
 (10, 'Gülay', 'Kurt', '1988-03-25', 'K', 5),
-(11, 'Hakan', 'Þahin', '1981-08-03', 'E', 6),
-(12, 'Ýpek', 'Aydýn', '1986-05-18', 'K', 6);
+(11, 'Hakan', 'Sahin', '1981-08-03', 'E', 6),
+(12, 'Ipek', 'Aydın', '1986-05-18', 'K', 6);
 
 
 INSERT INTO Ogretmen (OgretmenID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
@@ -25,5 +25,5 @@ VALUES
 (14, 'Kutlu Kaan', 'Demir', '1984-09-22', 'E', 7),
 (15, 'Leyla', 'Mecnun', '1977-10-13', 'K', 8),
 (16, 'Arslan', 'Kutay', '1982-01-28', 'E', 8),
-(17, 'Hatice Nur', 'Aydýn', '1980-12-05', 'K', 9),
+(17, 'Hatice Nur', 'Aydin', '1980-12-05', 'K', 9),
 (18, 'Ozan', 'Kabak', '1985-04-20', 'E', 9);
