@@ -3,7 +3,7 @@ INSERT INTO Ogretmen (OgretmenID, Ad, Soyad, DogumTarihi, Cinsiyet, BolumID)
 VALUES
 (1, 'Ilyas', 'Özer', '1970-03-15', 'E', 1),
 (2, 'Bahar', 'Milani', '1982-05-20', 'K', 1),
-(3, 'Mehmet Akif', 'Çiftçi', '1988-11-10', 'E', 2),
+(3, 'Mehmet Akif', 'Çifçi', '1988-11-10', 'E', 2),
 (4, 'Necla', 'Bandirmali Ertürk', '1980-02-25', 'K', 2),
 (5, 'Muhammed', 'Milani', '1978-09-03', 'E', 3),
 (6, 'Arzum', 'Karatas', '1983-06-18', 'K', 3);
